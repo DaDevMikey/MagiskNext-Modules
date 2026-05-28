@@ -1,1 +1,14 @@
-
+{
+  "modules": [
+    {
+      "id": "example_module",
+      "name": "Example Module",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "DaDevMikey",
+      "description": "An example module showing the layout required for the Module Hub.",
+      "zipUrl": "https://github.com/DaDevMikey/MagiskNext-Modules/releases/download/example/example.zip",
+      "changelog": "https://raw.githubusercontent.com/DaDevMikey/MagiskNext-Modules/master/example_changelog.md"
+    }
+  ]
+}
